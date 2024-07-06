@@ -42,8 +42,7 @@ jQuery, с основным упором на создание CSS-анимац�
 
 ## Автор
 
-Карчиньский Игорь  
-Email: igor.karchinskiy@gmail.com
+Игорь Карчиньский
 
 ********************************************************************************************************************
 
@@ -90,4 +89,3 @@ If you want to make changes, edit the appropriate files and check the result by 
 ## Author
 
 Igor Karchinskiy
-Email: igor.karchinskiy@gmail.com
