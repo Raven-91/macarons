@@ -21,7 +21,7 @@ jQuery, с основным упором на создание CSS-анимац�
 2. Перейдите в директорию проекта:
 
    ```bash
-   cd ваш-репозиторий
+   cd macarons
 
 3. Откройте файл index.html в вашем веб-браузере.
 
@@ -68,7 +68,7 @@ You will need any modern web browser to work with this project.
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repository
+   cd macarons
 
 3. Open the index.html file in your web browser.
 
